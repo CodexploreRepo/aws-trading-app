@@ -2,10 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+venv
 # C extensions
 *.so
 
+.DS_store
+
+# ignore data file
+data/
 # Distribution / packaging
 .Python
 build/
